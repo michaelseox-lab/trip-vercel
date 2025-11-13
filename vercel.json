@@ -3,5 +3,8 @@
     "api/trip_orders.py": {
       "runtime": "python3.11"
     }
-  }
+  },
+  "builds": [
+    { "src": "api/trip_orders.py", "use": "@vercel/python" }
+  ]
 }
