@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/trip_orders.py": {
+      "runtime": "python3.11"
+    }
+  }
+}
